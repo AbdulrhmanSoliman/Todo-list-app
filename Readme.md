@@ -10,4 +10,3 @@
 ## Author
 
 - Website - [Abdulrhman M.Soliman](http://github.com/AbdulrhmanSoliman)
-- Frontend Mentor - [@AbdulrhmanSoliman](https://www.frontendmentor.io/profile/AbdulrhmanSoliman)
