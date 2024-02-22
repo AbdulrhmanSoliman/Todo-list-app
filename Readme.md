@@ -1,6 +1,6 @@
 # TODO list
 
-![Design preview for the Calculator app coding challenge](images/todo_list.png)
+![Design preview for the Calculator app coding challenge](images/todo_list_image.png)
 
 ## Links
 
